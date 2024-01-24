@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: 7775bacb9b58af843bc6d5897478a561
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840 1_0
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 425
+        width: 72
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b717d3e2b00747e4aab067a3f170eb87
+      internalID: 701047337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840 1_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 424
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0195df4de7dfdc84cb4e94bc39370aa8
+      internalID: -608933135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840 1_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 424
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e32e4c02eee6a142b644a046dfc3da8
+      internalID: 792769926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840 1_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 58
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55eab0d18e577247adaeff8715d9b2a
+      internalID: -2063314553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840 1_4
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 59
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9aed4586e7db74084eb72a3de3b7d0
+      internalID: -665667305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840 1_5
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 59
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0dbe0f9b41ed64687edcdb203e27fa
+      internalID: -1860546104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dd9523d1c4deda549aa474989156bbdd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840 1_0: 701047337
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840 1_1: -608933135
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840 1_2: 792769926
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840 1_3: -311451280
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840 1_4: 338266114
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840 1_5: -2063314553
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_0: 191446405
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_1: -1216952542
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_10: -1381715448
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_11: 1959382351
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_12: -1952876753
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_13: 1454623921
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_14: -448093466
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_15: -2104320640
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_16: 1311170870
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_17: -1668839128
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_18: 599499998
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_19: 688316629
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_2: -368224246
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_20: -1717316468
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_21: 2078997488
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_22: -2009418718
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_23: 1507089595
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_24: 1102268409
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_25: 434110100
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_26: 643652825
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_27: 494024912
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_28: -1067991911
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_29: 805808492
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_3: -1549455179
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_30: 703226793
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_31: 766759243
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_32: 898324223
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_33: -880951422
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_34: -28894321
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_35: 635245582
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_36: -1078731751
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_37: 1368991305
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_38: 1404593054
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_39: 1231309784
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_4: 1484975956
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_40: -697247327
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_41: 183543288
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_42: -831598601
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_43: 428810892
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_44: 1119546736
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_45: 1939192442
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_46: -1459000765
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_47: -566830300
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_48: -137219598
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_49: 895659132
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_5: 1049835730
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_50: -118670980
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_51: -568318322
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_52: 1670195069
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_53: -1425385883
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_54: -1282569221
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_55: 22148955
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_56: 884590746
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_6: 429253173
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_7: -1521656930
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_8: -477136685
+      mole-game-sprites-vector-21861381-fotor-bg-remover-2023100583840_9: -1744256263
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
